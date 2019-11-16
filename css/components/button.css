@@ -1,0 +1,17 @@
+.btn-landing{
+  background-color: #6AD58B;
+  color: white;
+  font-weight: bold;
+  border-radius: 50px;
+  padding:15px 25px;
+  text-decoration: none;
+  display: inline-block;
+
+}
+
+.btn-landing:hover {
+  opacity: 1;
+  background: #3ac162;
+  text-decoration: none;
+  color: white;
+}
